@@ -60,5 +60,5 @@ Molteni, R., et al. (2004). *Exercise reverses the harmful effects of a high-fat
 
 ## 🚀 Author
 Daivarsi Malik  
-[Instagram: @thecognitiveengineer](https://instagram.com/thecognitiveengineer)  
-PhD-track Biomedical Engineer | Applied AI | Cognitive Modeling  
+[Instagram: @cognitive.engineer](https://instagram.com/cognitive.engineer)  
+PhD-track Biomedical Engineer | Applied AI | Cognitive Neuroscience Modeling  
