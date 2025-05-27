@@ -56,6 +56,11 @@ Molteni, R., et al. (2002). *A high-fat, refined sugar diet reduces hippocampal 
 
 Molteni, R., et al. (2004). *Exercise reverses the harmful effects of a high-fat, refined sugar diet on synaptic and behavioral plasticity associated with BDNF.* Eur J Neurosci, 19(7), 1951–1962. https://doi.org/10.1111/j.1460-9568.2004.03278.x
 
+## 🚀 Author
+Daivarsi Malik  
+[Instagram: @cognitive.engineer](https://instagram.com/cognitive.engineer)  
+PhD-track Biomedical Engineer | Applied AI | Cognitive Neuroscience Modeling  
+
 ---
 
 ## 🚀 Author
