@@ -6,21 +6,21 @@ This project simulates how different sweeteners—glucose, fructose, and sucralo
 
 ---
 
-## 🔬 What This Project Does
+## What This Project Does
 
-### ✅ Short-Term Simulation:
+### Short-Term Simulation:
 - Models BOLD activity in key brain regions (VTA, ACC, Insula)
 - Simulates functional connectivity matrices and network graphs
 - Uses eigenvector centrality to assess neural “influence” per region
 
-### ✅ Long-Term Simulation:
+### Long-Term Simulation:
 - Visualizes BDNF decline, synaptic degradation, and learning loss over 30 days of glucose exposure
 - Simulates 60 days of sugar withdrawal and brain recovery
 - Emphasizes how sweeteners trigger activation—but at a cognitive cost
 
 ---
 
-## 🧠 Key Findings
+## Key Findings
 
 - **Glucose** powers the brain—then burns it out  
 - **Fructose** activates partially, but doesn’t satisfy  
@@ -29,7 +29,7 @@ This project simulates how different sweeteners—glucose, fructose, and sucralo
 
 ---
 
-## 📈 Plots Included
+## Plots Included
 
 - BOLD signal response curves  
 - Functional connectivity heatmaps  
@@ -39,7 +39,7 @@ This project simulates how different sweeteners—glucose, fructose, and sucralo
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3 (Google Colab)  
 - NumPy, Matplotlib, Seaborn  
@@ -48,7 +48,7 @@ This project simulates how different sweeteners—glucose, fructose, and sucralo
 
 ---
 
-## 📚 References
+## References
 
 Van Opstal, A. M., et al. (2021). *Brain activity and connectivity changes in response to nutritive natural sugars, non-nutritive natural sugar replacements, and artificial sweeteners.* NeuroImage, 233, 117941. https://doi.org/10.1016/j.neuroimage.2021.117941
 
@@ -56,7 +56,7 @@ Molteni, R., et al. (2002). *A high-fat, refined sugar diet reduces hippocampal 
 
 Molteni, R., et al. (2004). *Exercise reverses the harmful effects of a high-fat, refined sugar diet on synaptic and behavioral plasticity associated with BDNF.* Eur J Neurosci, 19(7), 1951–1962. https://doi.org/10.1111/j.1460-9568.2004.03278.x
 
-## 🚀 Author
+## Author
 Daivarsi Malik  
 [Instagram: @cognitive.engineer](https://instagram.com/cognitive.engineer)  
 PhD-track Biomedical Engineer | Applied AI | Cognitive Neuroscience Modeling  
